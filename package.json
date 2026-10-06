@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Improve your game!",
   "scripts": {
-    "start": "webpack"
+    "start": "webpack",
+    "test": "node src/moves.test.js"
   },
   "repository": {
     "type": "git",
